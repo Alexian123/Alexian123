@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Alexian123
-- 👀 I’m interested in GNU/Linux, game development and low level stuff
-- 🌱 I’m currently learning Java and OpenGL
+- 👀 I’m interested in GNU/Linux and programming
 - 📫 How to reach me: alexianhentiu1208@gmail.com
 
 <!---
