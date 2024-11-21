@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alexian123
-- 👀 I’m interested in GNU/Linux, low-level programming & embedded systems
+- 👀 I’m interested in GNU/Linux and FOSS
 - 📫 How to reach me: alexianhentiu1208@gmail.com
 
 <!---
